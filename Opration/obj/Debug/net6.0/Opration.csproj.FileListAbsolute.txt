@@ -1,0 +1,15 @@
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\bin\Debug\net6.0\Opration.deps.json
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\bin\Debug\net6.0\Opration.dll
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\bin\Debug\net6.0\Opration.pdb
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\bin\Debug\net6.0\Entity.dll
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\bin\Debug\net6.0\Entity.pdb
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.csproj.CopyComplete
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.dll
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\refint\Opration.dll
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\Opration.pdb
+D:\Ahmed Alaa\Projects\Dashbord\Dashbord\Opration\obj\Debug\net6.0\ref\Opration.dll
